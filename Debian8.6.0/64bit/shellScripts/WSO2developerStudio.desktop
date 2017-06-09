@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/local/Development/ESB/eclipse/eclipse
+Name=WSO2DeveloperStudio
+Comment=Script Development
+Icon=/usr/local/Development/ESB/eclipse/icon.xpm
+Name[en_US]=WSO2developerStudio

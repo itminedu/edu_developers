@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[el_GR]=/home/ostdeveloper/netbeans-8.1/nb/netbeans.png
+Name[el_GR]=RunMe
+Exec=/bin/sh /home/ostdeveloper/runme.sh
+Comment[el_GR]= Full Stack IDE
+Name=RunMe
+Comment=Script Development
+Icon=/home/ostdeveloper/netbeans-8.1/nb/netbeans.png

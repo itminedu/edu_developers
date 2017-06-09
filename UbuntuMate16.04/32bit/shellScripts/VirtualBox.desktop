@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=VirtualBox
+Comment=VM Software
+Exec=virtualbox
+Icon=/usr/share/icons/hicolor/64x64/apps/virtualbox.png

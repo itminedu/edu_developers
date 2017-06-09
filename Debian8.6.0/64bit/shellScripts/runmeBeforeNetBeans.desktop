@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[el_GR]=/usr/local/netbeans-8.1/nb/netbeans.png
+Name[el_GR]=runmeBeforeNetBeans
+Exec=/bin/sh /home/ostdeveloper/netbeans-8.1-linux.sh
+Comment[el_GR]= Full Stack IDE Installation
+Name=runmeBeforeNetBeans
+Comment=Script Development
+Icon=/usr/local/netbeans-8.1/nb/netbeans.png

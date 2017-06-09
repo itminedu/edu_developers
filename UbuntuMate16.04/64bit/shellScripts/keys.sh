@@ -1,0 +1,1 @@
+echo xtremesource | sudo -S rm /etc/ssh/sshhostdsakey ; sudo rm /etc/ssh/sshhostrsakey ; sudo rm /etc/ssh/sshhostecdsa_key ; sudo ssh-keygen -t dsa -N "" -f /etc/ssh/sshhostdsakey ; sudo ssh-keygen -t rsa -N "" -f /etc/ssh/sshhostrsakey ; sudo ssh-keygen -t ecdsa -N "" -f /etc/ssh/sshhostecdsa_key

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Software Center
+Comment=Ubuntu Application Store
+Exec=/usr/bin/software-center %u
+Icon=/usr/share/icons/matefaenza/apps/96/softwarecenter.png

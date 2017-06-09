@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/local/Development/sublime3/sublime_text_3/sublime_text
+Name=SubLime
+Comment=Script Development
+Icon=/usr/local/Development/sublime3/sublime_text_3/Icon/128x128/sublime-text.png
