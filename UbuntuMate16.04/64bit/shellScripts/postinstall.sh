@@ -7,6 +7,7 @@ dpkg -i /tmp/libgcrypt11_1.5.3-2ubuntu4.2_amd64.deb
 dpkg -i /tmp/StarUML-v2.8.0-64-bit.deb
 dpkg -i /tmp/sublime-text_build_amd64.deb
 dpkg -i /tmp/code_1.12.2_amd64.deb
+wget -O /tmp/atom64.deb http://ostdev.minedu.gov.gr/~pgeorg/customDistros/developerEdition/UbuntuMate/atom64.deb  
 dpkg -i /tmp/atom64.deb
 mv /tmp/VidyoDesktopInstaller-ubuntu64bit.deb /home/ostdeveloper
 mv /tmp/keys.sh /home/ostdeveloper
