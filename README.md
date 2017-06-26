@@ -37,8 +37,8 @@ H διανομή OSDeveloper βασίζεται στις διανομές Ubuntu
 <br>
 <A href="https://git.minedu.gov.gr/itminedu/edu_developers/raw/master/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82-ubuntu_developer.pdf">Οδηγός Εγκατάστασης Open Source Developer WorkStation Ubuntu Mate 16.04</A><br>
 Επιπλέον, υπάρχουν και virtual machine images που διαθέτουν προεγκατεστημένες τις εκδόσεις 64 και 32 bit του OS Developer Ubuntu Mate WorkStation διαθέσιμα εδώ:<br>
-<A href="">64bit VirtualBox Image</A><br>
-<A href="">32bit VirtualBox Image</A><br>
+<A href="https://pithos.okeanos.grnet.gr/public/8iEEXXZDLZdIrJjWydmrD6">64bit VirtualBox Image</A><br>
+<A href="https://pithos.okeanos.grnet.gr/public/ugPM64jz2S3rBPeYSYpjn4">32bit VirtualBox Image</A><br>
 <A href="">64bit VMWare Player Image</A><br>
 <A href="">32bit VMWare Player Image</A><br>
 </p>
@@ -46,8 +46,8 @@ H διανομή OSDeveloper βασίζεται στις διανομές Ubuntu
 Περιγραφή: Παραμετροποιημένη Διανομή Debian Linux έκδοσης Jessie εμπλουτισμένη με λογισμικά και υλικό για προγραμματιστές λογισμικού ανοικτού κώδικα.
 <p align="justify">
 Διανομή: Τα .iso της διανομής που έχουμε δημιουργήσει είναι διαθέσιμα εδώ:
-<A href="https://pithos.okeanos.grnet.gr/public/V7Nyum3zK15sRdAuhZXqi1">64bit</A>,
-<A href="https://pithos.okeanos.grnet.gr/public/Hmcjo1rWYSS3YtG12mbps7">32bit</A>
+<A href="https://pithos.okeanos.grnet.gr/public/8Wr5zLcqY4ixkPKgGtA175">64bit</A>,
+<A href="https://pithos.okeanos.grnet.gr/public/eABhTjjfP5VHhTVWiT9nq">32bit</A>
 
 Επιπλέον, υπάρχει και virtual machine image της 64 bit διανομής διαθέσιμο εδώ:
 <A href="https://pithos.okeanos.grnet.gr/public/7J3Uu9eVhNu1FOQgykHFg5">64bit</A>
