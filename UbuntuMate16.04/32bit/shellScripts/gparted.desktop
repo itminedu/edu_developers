@@ -5,5 +5,5 @@ Type=Application
 Terminal=false
 Name=Gparted
 Comment=Partition Manipulation Software
-Exec=/usr/sbin/gparted
+Exec=gparted-pkexec
 Icon=/usr/share/icons/matefaenza/apps/96/gparted.png
