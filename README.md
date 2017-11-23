@@ -67,7 +67,7 @@ H διανομή OSDeveloper βασίζεται στις διανομές Ubuntu
 <p align="justify">
 Επιπλέον, υπάρχουν και virtual machine images που διαθέτουν προεγκατεστημένες τις εκδόσεις 64 και 32 bit του OS Developer Ubuntu Mate WorkStation διαθέσιμα εδώ:
 <br>
--<A href=" https://pithos.okeanos.grnet.gr/public/vrphDy3ZkYbPmeXTRM1Ti">64bit VirtualBox Image</A>
+-<A href="https://pithos.okeanos.grnet.gr/public/vrphDy3ZkYbPmeXTRM1Ti">64bit VirtualBox Image</A>
 <br>
 -<A href="https://pithos.okeanos.grnet.gr/public/OYzuN8oU52aXNNP2PCW807">32bit VirtualBox Image</A>
 <br>
@@ -124,7 +124,7 @@ The .iso distribution is available for download here:
 
 There are also available virtual machine images for each distribution through the following links:
 <br>
--<A href=" https://pithos.okeanos.grnet.gr/public/vrphDy3ZkYbPmeXTRM1Ti">64bit VirtualBox Image</A>
+-<A href="https://pithos.okeanos.grnet.gr/public/vrphDy3ZkYbPmeXTRM1Ti">64bit VirtualBox Image</A>
 <br>
 -<A href="https://pithos.okeanos.grnet.gr/public/OYzuN8oU52aXNNP2PCW807">32bit VirtualBox Image</A>
 </p>
