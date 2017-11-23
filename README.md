@@ -69,7 +69,7 @@ H διανομή OSDeveloper βασίζεται στις διανομές Ubuntu
 <br>
 -<A href="https://pithos.okeanos.grnet.gr/public/vrphDy3ZkYbPmeXTRM1Ti">64bit VirtualBox Image</A>
 <br>
--<A href="https://pithos.okeanos.grnet.gr/public/OYzuN8oU52aXNNP2PCW807">32bit VirtualBox Image</A>
+-<A href="https://pithos.okeanos.grnet.gr/public/aaIhyDsZWdfx3GHkBXOBr7">32bit VirtualBox Image</A>
 <br>
 -<A href="">64bit VMWare Player Image</A>
 <br>
@@ -126,7 +126,7 @@ There are also available virtual machine images for each distribution through th
 <br>
 -<A href="https://pithos.okeanos.grnet.gr/public/vrphDy3ZkYbPmeXTRM1Ti">64bit VirtualBox Image</A>
 <br>
--<A href="https://pithos.okeanos.grnet.gr/public/OYzuN8oU52aXNNP2PCW807">32bit VirtualBox Image</A>
+-<A href="https://pithos.okeanos.grnet.gr/public/aaIhyDsZWdfx3GHkBXOBr7">32bit VirtualBox Image</A>
 </p>
 
 <p align="justify">
