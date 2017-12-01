@@ -83,7 +83,7 @@ H διανομή OSDeveloper βασίζεται στις διανομές Ubuntu
 <br>
 -<A href="https://pithos.okeanos.grnet.gr/public/8Wr5zLcqY4ixkPKgGtA175">OS Developer Workstation Debian Jessie 64bit</A>,
 <br>
--<A href="https://pithos.okeanos.grnet.gr/public/eABhTjjfP5VHhTVWiT9nq">OS Developer Workstation Debian Jessie 32bit</A>
+-<A href="https://pithos.okeanos.grnet.gr/public/CWBYvOVSSVpG1XBPfllKt4">OS Developer Workstation Debian Jessie 32bit</A>
 <br>
 
 Αναλυτική περιγραφή των εργαλείων που εγκαθιστά αυτόματα η διανομή θα βρείτε εδώ:
@@ -137,7 +137,7 @@ The .iso distribution is available for download here:
 <br>
 -<A href="https://pithos.okeanos.grnet.gr/public/8Wr5zLcqY4ixkPKgGtA175">64bit Debian Jessie Edition</A>,
 <br>
--<A href="https://pithos.okeanos.grnet.gr/public/eABhTjjfP5VHhTVWiT9nq">32bit Debian Jessie Edition</A>
+-<A href="https://pithos.okeanos.grnet.gr/public/CWBYvOVSSVpG1XBPfllKt4">32bit Debian Jessie Edition</A>
 <br>
 There are also available virtual machine images for each distribution through the following links:
 <br>
